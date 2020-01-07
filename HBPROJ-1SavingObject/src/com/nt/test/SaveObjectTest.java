@@ -43,6 +43,6 @@ public class SaveObjectTest {
 		//close object
 		ses.close();
 		factory.close();
-	}//main
+	}
 
 }//class
